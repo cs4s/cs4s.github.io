@@ -13,3 +13,4 @@ title: CS Outreach @ UON Site Directory
 
 - [Digital Day Out](/ddo/)
 - [WALC CS](/walc-2016/)
+- [CS 4 the CSO](/cso-2016/)
