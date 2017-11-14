@@ -9,6 +9,8 @@ title: CS Outreach @ UON Site Directory
 
 - [2016 CS4S High School](/hs-2016/)
 - [2016 CS4S Primary School](/ps-2016/)
+- [2017 CS4S Introduction](/intro-2017/)
+- [2017 CS4S Maths: Networks](/math-2017/)
 
 ## Other Workshops
 
