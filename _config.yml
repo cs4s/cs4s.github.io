@@ -9,6 +9,7 @@
 title: CS Outreach @ UON
 email: daniel.hickmott@uon.edu.au
 contact: Daniel Hickmott
+baseUrl: /
 
 # Build settings
 markdown: kramdown
