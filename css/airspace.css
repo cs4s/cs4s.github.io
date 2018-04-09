@@ -30,7 +30,7 @@ h2 {
   font-weight: 400;
 }
 h3 {
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 300;
 }
 p {
@@ -55,6 +55,10 @@ a:active {
   font-family: 'Volkhov', serif;
   font-style: italic;
   color: #666;
+}
+
+li.point-list {
+  padding-bottom: 5px;
 }
 /*--
 	Header Start
@@ -363,7 +367,6 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -611,7 +614,6 @@ font header .navbar-default .navbar-nav li a:hover {
 	slider-contact Start
 --*/
 #slider-contact {
-  background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
