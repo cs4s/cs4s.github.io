@@ -57,6 +57,10 @@ a:active {
   color: #666;
 }
 
+.big-text {
+  font-size: large;
+}
+
 li {
   padding-bottom: 5px;
 }
@@ -225,7 +229,6 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 30px;
 }
 #call-to-action p {
-  font-size: 14px;
   line-height: 1.6;
 }
 #call-to-action .btn-call-to-action {
@@ -399,7 +402,6 @@ font header .navbar-default .navbar-nav li a:hover {
   text-transform: capitalize;
 }
 #global-header .block p {
-  font-size: 16px;
   font-weight: 400;
   letter-spacing: 1px;
   word-spacing: 3px;

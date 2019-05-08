@@ -1,4 +1,4 @@
-To find out more about each of the CS4S programs, click the headings below. In each section below there is also a link to a form where can express your interest in participating in the programs.
+To find out more about each of the CS4S programs, click the headings in the *Program Details* section below. In each section below there is also a link to a form where can express your interest in participating in the programs.
 
 ### Program Details
 
@@ -28,7 +28,7 @@ Sessions in this workshop will include:
 
 <u>Registration:</u> You can register for the Introduction to Coding and Computational Thinking workshop by completing [this online form](https://goo.gl/forms/yMR9lkUMQsyd68dp2).
 
-[Register for the Intro Workshop](https://goo.gl/forms/yMR9lkUMQsyd68dp2){: class = "btn btn-primary btn-call-to-action"}
+[Register for the Intro Workshop](https://goo.gl/forms/yMR9lkUMQsyd68dp2){: class="btn btn-primary btn-call-to-action"}
 
 #### Developing Coding Hubs for Teachers Workshop (Planned for October/November 2018)
 {: .program-details-header}
@@ -48,4 +48,4 @@ Following the workshop, the CS4S team will assist you in the development and run
 <u>Registration:</u> Registration for this workshop has not opened yet but you can let us know that you are interested in participating in this workshop by [completing this expression of interest form](https://goo.gl/forms/t3Qb1OsuMnn0wCtg1). 
 We will email you as soon as we have finalised dates and have opened the registration for the Developing Coding Hubs for Teachers workshop.
 
-[Express Interest in the Hubs Workshop](https://goo.gl/forms/t3Qb1OsuMnn0wCtg1){: class = "btn btn-primary btn-call-to-action" }
+[Express Interest in the Hubs Workshop](https://goo.gl/forms/t3Qb1OsuMnn0wCtg1){: class="btn btn-primary btn-call-to-action" }
