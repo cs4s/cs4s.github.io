@@ -86,6 +86,10 @@ li {
   content: "\f055 ";
 }
 
+.link-table {
+  margin-top: 1.2em;
+}
+
 /*--
 	Header Start
 --*/
