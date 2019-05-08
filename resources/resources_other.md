@@ -1,0 +1,8 @@
+## Other Workshops
+
+Name                          |  Description                                                                                                                                               |  Date
+------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------
+[Digital Day Out](/ddo/)      |  A short (2 hour) workshop that introduced Coding in [Scratch](https://scratch.mit.edu/) and "unplugged" approaches for teaching Computational Thinking    |  April and October 2016
+[CS 4 the WALC](/walc-2016/)  |  A day-long workshop for a communiy of teachers that focused on teaching Coding in [Scratch](https://scratch.mit.edu/) to Primary School teachers.         |  June, 2016
+[CS 4 the CSO](/cso-2016/)    |  A short (2 hour) workshop for a communiy of teachers that focused on teaching Coding in [Scratch](https://scratch.mit.edu/) to Primary School teachers.   |  October, 2016
+{: class="table table-striped table-bordered link-table" }
