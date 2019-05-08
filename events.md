@@ -38,9 +38,8 @@ permalink: /events
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h2>Want to know when we open registration for new professional learning events?</h2>
-          <b><p class="big-text">To find out when registration for these events open or new professional learning events are announced, please sign up to the mailing list.</p></b>
-          <a class="btn btn-default btn-call-to-action" href="https://goo.gl/forms/uhFt9j740ELhKKxK2">Sign up to the Mailing List</a>
+          {% capture events_footer %}{% include_relative events/footer.md %}{% endcapture %}
+          {{ events_footer | markdownify }}
         </div>
       </div>
     </div>
