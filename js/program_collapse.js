@@ -5,8 +5,8 @@ $(document).ready(function() {
 
 	if (header_elements.length !== 0) {
 
-		var program_details_div = $("#program-details");
-		var accordion_div = $("<div id='accordion'></div>")
+		var program_details_div = $("#program-details-content");
+		var accordion_div = $("<div id='accordion' class='panel-group' aria-multiselectable='true'></div>")
 		program_details_div.after(accordion_div);
 
 		// Get all of the outcomes and tables into an array, removing this text from the page (to be put into an accordion in the next steps)

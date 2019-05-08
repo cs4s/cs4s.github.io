@@ -61,9 +61,31 @@ a:active {
   font-size: large;
 }
 
+.program-heading {
+  padding: 1.2em;
+}
+
 li {
   padding-bottom: 5px;
 }
+
+.program-icon {
+  padding: 0em 0.3em;
+  color: #3390c9;
+}
+
+#accordion {
+  margin-top: 1.5em;
+}
+
+[data-toggle="collapse"] .fa:before {  
+  content: "\f056 ";
+}
+
+[data-toggle="collapse"].collapsed .fa:before {
+  content: "\f055 ";
+}
+
 /*--
 	Header Start
 --*/

@@ -1,6 +1,8 @@
-To find out more about each of the CS4S programs, click the headings in the *Program Details* section below. In each section below there is also a link to a form where can express your interest in participating in the programs.
-
 ### Program Details
+
+To find out more about each of the CS4S programs, click the headings below. 
+In each section below there is also a link to a form where can express your interest in participating in the programs.
+{: #program-details-content}
 
 #### Introduction to Coding &amp; Computational Thinking Workshop (July 19th and 20th 2018)
 {: .program-details-header}
