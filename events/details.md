@@ -48,7 +48,7 @@ This workshop will be run over two days at the University of Newcastle’s Calla
 
 Registration has not opened for this workshop yet, but you can express your interest in participating in the workshop by completing [this form](https://forms.gle/874cYsVnU8HwTqGc9).
 
-[Express Your Interest in Developing Coding Hubs for Teachers Workshop](https://forms.gle/874cYsVnU8HwTqGc9){: class="btn btn-primary"}
+[Express Your Interest in the Developing Coding Hubs for Teachers Workshop](https://forms.gle/874cYsVnU8HwTqGc9){: class="btn btn-primary"}
 
 #### AI and VR Workshops (Planned for November/December 2019)
 {: .program-details-header}

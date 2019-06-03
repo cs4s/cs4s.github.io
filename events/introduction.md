@@ -5,7 +5,7 @@
 In 2019, the Newcastle CS4S team will run four different professional learning programs, free for teachers to attend, at the University of Newcastle’s Callaghan campus. These programs will be accredited with the NSW Education Standards Authority (NESA). The four programs that will be run are the:
 
 - **Coding & STEAM Program** (To be run as weekly tutorials in weeks 2–9 of Term 3)
-- **Introduction to Coding and Computational Thinking Workshop**(Planned for school holidays between Terms 3 and 4)
+- **Introduction to Coding and Computational Thinking Workshop** (Planned for school holidays between Terms 3 and 4)
 - **AI and VR Workshops** (Planned for November/December)
 - **Developing Coding Hubs for Teachers Workshop** (Planned for November/December)
 
