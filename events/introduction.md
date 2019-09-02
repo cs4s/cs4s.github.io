@@ -4,8 +4,8 @@
 
 In 2019, the Newcastle CS4S team will run four different professional learning programs, free for teachers to attend, at the University of Newcastle’s Callaghan campus. These programs will be accredited with the NSW Education Standards Authority (NESA). The four programs that will be run are the:
 
-- **Coding & STEAM Program** (To be run as weekly tutorials in weeks 2–9 of Term 3)
-- **Introduction to Coding and Computational Thinking Workshop** (Planned for school holidays between Terms 3 and 4)
+- **Coding & STEAM Program** (ran during Term 3)
+- **Introduction to Coding and Computational Thinking Workshop** (10th and 11th of October)
 - **AI and VR Workshops** (Planned for November/December)
 - **Developing Coding Hubs for Teachers Workshop** (Planned for November/December)
 
@@ -13,9 +13,11 @@ For more information about each of the programs, please see the *Program Details
 
 For some quick guidance about which of the programs you would be suited to attend, see the *Which Program/s Should I Participate in?* section below.
 
-All of the programs are focused on developing competencies included in the Digital Technologies learning area of the national Australian Curriculum and the capabilities outlined in the [NSW Coding and Computational Thinking Across the Curriculum Guide](http://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/technologies/coding-across-the-curriculum). The CS4S workshops have been developed in [partnership with Google](https://edu.google.com/computer-science/educator-grants/#?modal_active=none).
+All of the programs are focused on developing competencies included in the Digital Technologies learning area of the national Australian Curriculum and the capabilities outlined in the [NESA's Digital Technologies and ICT Resources Guide](http://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/technologies/coding-across-the-curriculum). The CS4S workshops have been developed in [partnership with Google](https://edu.google.com/computer-science/educator-grants/#?modal_active=none).
 
-We have not opened registration for any of the programs yet, but you can express your interest in the programs you would like to participate in by [completing this form here](https://forms.gle/874cYsVnU8HwTqGc9). Once we confirm dates and open up registration for the different programs, we will send out this information to those that have responded to the expression of interest form first.
+You can register for the Introduction workshop running in October by [completing this online form](https://forms.gle/m4Zqdbua1m5sdZxF7).
+We have not opened registration for the *AI/VR Workshop* and *Developing Coding Hubs for Teachers Workshop* yet.
+However, you can express your interest in participating in those workshops by [completing this form here](https://forms.gle/874cYsVnU8HwTqGc9) and we will contact you once registration for these programs open.
 
 If you have any questions about the 2019 CS4S programs, please contact [Daniel Hickmott](mailto:daniel.hickmott@uon.edu.au?Subject=CS4S%20PD%20Query).
 
