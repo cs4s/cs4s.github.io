@@ -37,19 +37,6 @@ Sessions in this workshop will include:
 
 [Register for the Introduction Workshop](https://forms.gle/m4Zqdbua1m5sdZxF7){: class="btn btn-primary"}
 
-#### Developing Coding Hubs for Teachers Workshop (Planned for November/December 2019) 
-{: .program-details-header}
-
-If you are currently teaching Coding and Computational Thinking at your school and would like to run your own professional learning events to share your knowledge with your peers, then this workshop is for you. In this workshop, we will help you gather resources and organise Digital Technologies professional learning for other teachers at your school and/or in the professional learning communities you are part of.
-
-This workshop will involve the sharing of existing resources, such as the [PL-in-a-Box materials](https://csermoocs.appspot.com/plbox/), that can be used in, and adapted for, your own professional learning events. There will also be presentations from professional learning organisers that can help you organise your own events, as well as activities in which you will plan and gather resources for these events, with assistance from the CS4S team. 
-
-This workshop will be run over two days at the University of Newcastle’s Callaghan campus but you will also have the option to complete one of the workshop days online. The workshop will be accredited with NESA for 10 hours for the following teaching standards, at the Proficient level: 2.1, 2.2, 2.3, 2.6, 3.2, 3.3, 3.4, 3.6, 4.5, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 6.4 and 7.4 
-
-Registration has not opened for this workshop yet, but you can express your interest in participating in the workshop by completing [this form](https://forms.gle/874cYsVnU8HwTqGc9).
-
-[Express Your Interest in the Developing Coding Hubs for Teachers Workshop](https://forms.gle/874cYsVnU8HwTqGc9){: class="btn btn-primary"}
-
 #### AI and VR Workshops (Planned for November/December 2019)
 {: .program-details-header}
 
