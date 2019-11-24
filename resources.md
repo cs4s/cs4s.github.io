@@ -23,17 +23,116 @@ permalink: /resources
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          {% capture resources_2018 %}{% include_relative resources/resources_2018.md %}{% endcapture %}
-          {{ resources_2018 | markdownify }}
-
-          {% capture resources_2017 %}{% include_relative resources/resources_2017.md %}{% endcapture %}
-          {{ resources_2017 | markdownify }}
-
-          {% capture resources_2016 %}{% include_relative resources/resources_2016.md %}{% endcapture %}
-          {{ resources_2016 | markdownify }}
-
-          {% capture resources_other %}{% include_relative resources/resources_other.md %}{% endcapture %}
-          {{ resources_other | markdownify }}
+          <!-- Resources from 2019 -->
+          <h2>2019 Professional Learning</h2>
+          <table class="table table-striped table-bordered">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for resource in site.data.resources_2019 %}
+            <tr>
+              <td>
+                <a href="{{ resource.Link }}">{{ resource.Name }}</a>
+              </td>
+              <td>{{ resource.Description }}</td>
+              <td>{{ resource.Date }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+          <!-- Resources from 2018 -->
+          <h2>2018 Professional Learning</h2>
+          <table class="table table-striped table-bordered">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for resource in site.data.resources_2018 %}
+            <tr>
+              <td>
+                <a href="{{ resource.Link }}">{{ resource.Name }}</a>
+              </td>
+              <td>{{ resource.Description }}</td>
+              <td>{{ resource.Date }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+          <!-- Resources from 2017 -->
+          <h2>2017 Workshops</h2>
+          <table class="table table-striped table-bordered">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for resource in site.data.resources_2017 %}
+            <tr>
+              <td>
+                <a href="{{ resource.Link }}">{{ resource.Name }}</a>
+              </td>
+              <td>{{ resource.Description }}</td>
+              <td>{{ resource.Date }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+          <!-- Resources from 2016 -->
+          <h2>2016 Workshops</h2>
+          <table class="table table-striped table-bordered">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for resource in site.data.resources_2016 %}
+            <tr>
+              <td>
+                <a href="{{ resource.Link }}">{{ resource.Name }}</a>
+              </td>
+              <td>{{ resource.Description }}</td>
+              <td>{{ resource.Date }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+          <!-- Other Resources -->
+          <h2>Other Workshops</h2>
+          <table class="table table-striped table-bordered">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for resource in site.data.resources_other %}
+            <tr>
+              <td>
+                <a href="{{ resource.Link }}">{{ resource.Name }}</a>
+              </td>
+              <td>{{ resource.Description }}</td>
+              <td>{{ resource.Date }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+          </table>
         </div>
       </div>
     </div>
