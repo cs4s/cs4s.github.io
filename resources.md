@@ -23,6 +23,34 @@ permalink: /resources
     <div class="row">
       <div class="col-md-12">
         <div class="block">
+          <!-- Resources from 2020 -->
+          <h2>2020-2021 Professional Learning</h2>
+          <table class="table table-striped table-bordered">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody>
+            {% for resource in site.data.resources_2020_2021 %}
+            <tr>
+              <td>
+                <a href="{{ resource.Link }}">{{ resource.Name }}</a>
+              </td>
+              <td>{{ resource.Description }}</td>
+              <td>{{ resource.Date }}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
           <!-- Resources from 2019 -->
           <h2>2019 Professional Learning</h2>
           <table class="table table-striped table-bordered">
